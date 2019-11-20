@@ -35,7 +35,8 @@ The participant is tasked to differentiate between 2 tunes (x36 pairs; 18 pairs 
 9) After the Melodic Perception Task finishes (no more tunes are being played), close out of the app.
 
 ##### Location of Data:
-The output is stored in the output folder in a txt file named participant#\_points.txt      
+The output is stored in the output folder in a txt file named participant#\_points.csv      
+This file contains the points and the response times.
 ##### Scoring (numbers separated by newlines):
 1 means "correct"     
 0 means "incorrect"      
